@@ -1,0 +1,71 @@
+{
+  "usuarios": [
+    {
+      "nome": "Lucas Lima da Silva",
+      "email": "silvalimalucasld23@gmail.com",
+      "senha": "123456",
+      "id": 1
+    },
+    {
+      "nome": "Gah Guerra ",
+      "email": "Gabrielguerrafernandes@gmail.com",
+      "senha": "123456",
+      "id": 2
+    },
+    {
+      "nome": "Eliel Elano",
+      "email": "elielelano7@gmail.com",
+      "senha": "123456",
+      "id": 3
+    },
+    {
+      "nome": "Felipe arruda Barba",
+      "email": "felipebarba@gmail.com",
+      "senha": "123456",
+      "id": 4
+    },
+    {
+      "nome": "Wellis Lopes ",
+      "email": "wellislopesjunior@gmail.com",
+      "senha": "123456",
+      "id": 5
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Moletom Golds gym",
+      "descricao": "100% algodão",
+      "validade": "15-09-2027",
+      "valor": "129.99",
+      "id": 1
+    },
+    {
+      "nome": "Shorts Golds Gym",
+      "descricao": "100% algodão",
+      "validade": "22-10-2029",
+      "valor": "149.99",
+      "id": 2
+    },
+    {
+      "nome": "Regata Golds Gym",
+      "descricao": "100% algodão",
+      "validade": "26-09-2028",
+      "valor": "89.90",
+      "id": 3
+    },
+    {
+      "nome": "Camisa Golds Gym",
+      "descricao": "100% Algodão",
+      "validade": "05-12-2025",
+      "valor": "59.90",
+      "id": 4
+    },
+    {
+      "nome": "Meia Golden Era ",
+      "descricao": "100% algodão",
+      "validade": "09-04-2027",
+      "valor": "25",
+      "id": 5
+    }
+  ]
+}
